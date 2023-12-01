@@ -103,7 +103,7 @@ aside{
         position: fixed;
         flex-direction: column !important;
         padding: 1em;
-        background-color: transparent;
+        background-color: transparent !important;
         border: none;
         border-radius: 0;
         text-decoration: none !important;
